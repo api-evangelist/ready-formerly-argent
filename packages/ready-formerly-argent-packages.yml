@@ -1,0 +1,60 @@
+generated: '2026-07-20'
+method: searched
+source: >-
+  npm registry (registry.npmjs.org) + github.com/argentlabs; first-party client
+  libraries for the Ready (formerly Argent) Starknet / Ethereum smart-account
+  wallet stack.
+packages:
+  - language: javascript
+    registry: npm
+    name: starknetkit
+    version: 3.4.3
+    url: https://www.npmjs.com/package/starknetkit
+    repository: https://github.com/argentlabs/starknetkit
+    install: npm install starknetkit
+    description: All-in-one connector SDK for Starknet dApps (wallet connect, connectors, modal).
+    official: true
+  - language: javascript
+    registry: npm
+    name: "@argent/x-sessions"
+    version: 8.0.1
+    url: https://www.npmjs.com/package/@argent/x-sessions
+    repository: https://github.com/argentlabs/x-sessions
+    install: npm install @argent/x-sessions
+    description: Create and manage session keys for Argent X / Ready smart accounts.
+    official: true
+  - language: javascript
+    registry: npm
+    name: "@argent/tma-wallet"
+    version: 1.19.3
+    url: https://www.npmjs.com/package/@argent/tma-wallet
+    install: npm install @argent/tma-wallet
+    description: Telegram Mini App wallet integration (documented as deprecated in Ready docs).
+    official: true
+    deprecated: true
+  - language: javascript
+    registry: npm
+    name: "@argent/invisible-sdk"
+    version: 1.0.0
+    url: https://www.npmjs.com/package/@argent/invisible-sdk
+    repository: https://github.com/argentlabs/invisible-sdk
+    install: npm install @argent/invisible-sdk
+    description: Web Wallet "invisible" integration SDK (documented as deprecated in Ready docs).
+    official: true
+    deprecated: true
+  - language: swift
+    registry: swift-package-manager
+    name: web3.swift
+    url: https://github.com/argentlabs/web3.swift
+    repository: https://github.com/argentlabs/web3.swift
+    install: 'SwiftPM: https://github.com/argentlabs/web3.swift'
+    description: Ethereum Swift API with support for smart contracts, ENS and ERC20.
+    official: true
+  - language: swift
+    registry: swift-package-manager
+    name: starknet.swift
+    url: https://github.com/argentlabs/starknet.swift
+    repository: https://github.com/argentlabs/starknet.swift
+    install: 'SwiftPM: https://github.com/argentlabs/starknet.swift'
+    description: Starknet SDK for Swift and Objective-C.
+    official: true

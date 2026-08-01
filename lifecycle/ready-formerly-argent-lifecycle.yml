@@ -1,0 +1,35 @@
+generated: '2026-07-20'
+method: searched
+source: >-
+  status.ready.co (Atlassian Statuspage) + docs.ready.co product lifecycle
+  labels. Ready (formerly Argent) versions its developer surface through SDK
+  releases (npm/SwiftPM), not a formal REST API version scheme.
+versioning:
+  scheme: sdk-semver
+  note: Versioning is carried by the client SDK releases (e.g. starknetkit 3.x, @argent/x-sessions 8.x); no dated/URI REST API version.
+status_page: https://status.ready.co
+status_provider: Atlassian Statuspage
+status_components:
+  - Account Management
+  - Ready Card
+  - Investment Service
+  - Activity Service
+  - Security Center
+  - Transact on Ethereum
+  - Transact on ZkSync
+  - Infura JSON-RPC Request API
+  - Alchemy JSON-RPC Request API
+  - API Gateway
+  - SMS Gateway
+  - Email Gateway
+  - Content Delivery Network
+deprecated_products:
+  - name: Telegram wallet
+    status: deprecated
+    docs: https://docs.ready.co/telegram-wallet-deprecated
+  - name: Invisible SDK
+    status: deprecated
+    docs: https://docs.ready.co/tools/invisible-sdk-deprecated
+deprecation:
+  policy_url: null
+  note: Individual products (Telegram wallet, Invisible SDK) are labeled deprecated in the docs; no consolidated deprecation-policy page was found.

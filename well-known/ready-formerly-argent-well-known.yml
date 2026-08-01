@@ -1,0 +1,27 @@
+generated: '2026-07-20'
+method: searched
+source: live probes of /.well-known/* on Ready hosts (www.ready.co, docs.ready.co)
+note: >-
+  No /.well-known discovery documents are published on the Ready hosts. Absence
+  is recorded data, not a fabrication. Ready is a Starknet/Ethereum smart-account
+  wallet provider whose developer surface is client SDKs, not an HTTP API with an
+  OAuth/OIDC discovery layer.
+hosts:
+  - host: https://www.ready.co
+    documents:
+      - path: /.well-known/security.txt
+        status: 404
+      - path: /.well-known/openid-configuration
+        status: 404
+      - path: /.well-known/oauth-authorization-server
+        status: 404
+      - path: /.well-known/api-catalog
+        status: 404
+      - path: /.well-known/ai-plugin.json
+        status: 404
+  - host: https://docs.ready.co
+    documents:
+      - path: /.well-known/security.txt
+        status: 404
+      - path: /.well-known/ai-plugin.json
+        status: 404

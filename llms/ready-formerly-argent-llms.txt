@@ -1,0 +1,58 @@
+# provenance: method=searched source=https://docs.ready.co/llms.txt generated=2026-07-20
+# Ready
+
+## Ready docs
+
+- [Build with Ready](https://docs.ready.co/build-with-ready.md)
+- [Ready Wallet](https://docs.ready.co/ready-wallets/ready-wallet.md)
+- [Adding Custom RPCs](https://docs.ready.co/ready-wallets/ready-wallet/adding-custom-rpcs.md)
+- [Network Switcher for Dapps](https://docs.ready.co/ready-wallets/ready-wallet/network-switcher-for-dapps.md)
+- [Verify signature of undeployed account](https://docs.ready.co/ready-wallets/ready-wallet/verify-signature-of-undeployed-account.md)
+- [WalletAccount](https://docs.ready.co/ready-wallets/ready-wallet/walletaccount.md)
+- [Ready Multisig](https://docs.ready.co/ready-wallets/ready-multisig.md)
+- [How multisig works](https://docs.ready.co/ready-wallets/ready-multisig/how-multisig-works.md)
+- [Create a multisig](https://docs.ready.co/ready-wallets/ready-multisig/create-a-multisig.md): Step-by-step guide to setting up multisig
+- [With Ready signer](https://docs.ready.co/ready-wallets/ready-multisig/create-a-multisig/with-ready-signer.md)
+- [With Ledger signer](https://docs.ready.co/ready-wallets/ready-multisig/create-a-multisig/with-ledger-signer.md)
+- [Join a multisig](https://docs.ready.co/ready-wallets/ready-multisig/join-a-multisig.md)
+- [With Ready signer](https://docs.ready.co/ready-wallets/ready-multisig/join-a-multisig/with-ready-signer.md)
+- [With Ledger signer](https://docs.ready.co/ready-wallets/ready-multisig/join-a-multisig/with-ledger-signer.md)
+- [Replace a multisig signer](https://docs.ready.co/ready-wallets/ready-multisig/replace-a-multisig-signer.md)
+- [Airgap](https://docs.ready.co/ready-wallets/ready-multisig/airgap.md): The ultimate security for your Starknet operations
+- [Web Wallet](https://docs.ready.co/ready-wallets/web-wallet.md): No wallet? No problem.
+- [Set up guide](https://docs.ready.co/ready-wallets/web-wallet/set-up-guide.md)
+- [Web Wallet UX](https://docs.ready.co/ready-wallets/web-wallet/web-wallet-ux.md): customization tips, UX guidelines
+- [API reference](https://docs.ready.co/ready-wallets/web-wallet/api-reference.md)
+- [Key Management](https://docs.ready.co/ready-wallets/web-wallet/key-management.md)
+- [Telegram wallet (DEPRECATED)](https://docs.ready.co/telegram-wallet-deprecated.md): Connecting Telegram's users to Ethereum.
+- [Setup guide](https://docs.ready.co/telegram-wallet-deprecated/setup-guide.md)
+- [Implementation](https://docs.ready.co/telegram-wallet-deprecated/implementation.md): SDK implementation guide.
+- [Types and interfaces](https://docs.ready.co/telegram-wallet-deprecated/types-and-interfaces.md): List of important types.
+- [Ready Card](https://docs.ready.co/ready/ready-card.md): Crypto in, cash out
+- [Ready Mobile for your react native app](https://docs.ready.co/ready/ready-mobile-for-your-react-native-app.md)
+- [Invisible SDK (DEPRECATED)](https://docs.ready.co/tools/invisible-sdk-deprecated.md): Seamless blockchain experience.
+- [Implementation](https://docs.ready.co/tools/invisible-sdk-deprecated/implementation.md): SDK implementation guide.
+- [Other useful endpoints](https://docs.ready.co/tools/invisible-sdk-deprecated/other-useful-endpoints.md)
+- [Types and interfaces](https://docs.ready.co/tools/invisible-sdk-deprecated/types-and-interfaces.md): List of important types.
+- [Gas abstraction](https://docs.ready.co/tools/invisible-sdk-deprecated/gas-abstraction.md): How to best handle transactions sponsoring
+- [Session Keys](https://docs.ready.co/aa-use-cases/session-keys.md)
+- [Implement session keys](https://docs.ready.co/aa-use-cases/session-keys/implement-session-keys.md)
+- [Session keys with outside execution](https://docs.ready.co/aa-use-cases/session-keys/session-keys-with-outside-execution.md)
+- [Demo App](https://docs.ready.co/aa-use-cases/session-keys/demo-app.md)
+- [FAQ](https://docs.ready.co/aa-use-cases/session-keys/faq.md): Frequently asked questions about session keys
+- [Types](https://docs.ready.co/aa-use-cases/session-keys/types.md)
+- [Paymasters](https://docs.ready.co/aa-use-cases/paymasters.md): Abstract gas
+- [Verifying signatures and cosigners](https://docs.ready.co/aa-use-cases/verifying-signatures-and-cosigners.md): Providing multi-signature verification support for dApps
+- [Identifying a smart account onchain](https://docs.ready.co/aa-use-cases/verifying-signatures-and-cosigners/identifying-a-smart-account-onchain.md)
+- [Multicalls](https://docs.ready.co/aa-use-cases/multicalls.md)
+- [Outside Execution](https://docs.ready.co/aa-use-cases/outside-execution.md): Enabling meta-transactions on Starknet
+- [Deploy accounts on behalf of users](https://docs.ready.co/aa-use-cases/deploy-accounts-on-behalf-of-users.md)
+- [Dappland](https://docs.ready.co/optimize-your-dapp/dappland.md): Optimize your dapp visibility with Argent users
+- [Known dapps](https://docs.ready.co/optimize-your-dapp/known-dapps.md)
+- [Transaction reviews](https://docs.ready.co/optimize-your-dapp/transaction-reviews.md)
+- [Brand your token](https://docs.ready.co/optimize-your-dapp/brand-your-token.md)
+- [Spoks](https://docs.ready.co/other-products/spoks.md): Starknet Proof of Kudos
+- [Perkz](https://docs.ready.co/other-products/perkz.md): Real benefits for your onchain activity
+- [Argent Vault on Ethereum L1](https://docs.ready.co/other-products/wallet-connect-and-argent.md): How to make sure your dapp works seamlessly with Argent!
+- [Contracts and audits](https://docs.ready.co/support-and-ressources/contracts-and-audits.md): Security first
+- [Get in touch](https://docs.ready.co/support-and-ressources/get-in-touch.md): Let us help
