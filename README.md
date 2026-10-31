@@ -64,6 +64,87 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Ready (formerly Argent) is a company surfaced as a portfolio company of creandum and added to the API Evangelist network as a stub for enrichment. Sector: fintech. This profile is a lead awaiting the enrichment pipeline.
+Ready (formerly Argent) is a self-custodial crypto wallet and smart-account platform for Starknet and Ethereum. It builds account-abstraction wallets (Ready Wallet, Ready Multisig, Web Wallet), the Ready Card for cashing out, and developer tooling for dApps — session keys, paymasters / gas abstraction, outside execution, multicalls, and signature/cosigner verification — shipped as first-party client SDKs (StarknetKit, @argent/x-sessions, web3.swift, starknet.swift). The company rebranded from Argent to Ready; developer resources live at docs.ready.co and the argentlabs GitHub organization. Its developer surface is client SDKs rather than a public REST API.
 
-Backed by: creandum — https://www.ready.co/
+**Areas:** Company · Fintech · Cryptocurrency · Wallets · Blockchain · Starknet · Ethereum · SDK · Web3 · Account Abstraction
+
+## Ready (formerly Argent) on APIs.io
+
+Everything profiled for Ready (formerly Argent) is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/ready-formerly-argent/](https://apis.io/providers/ready-formerly-argent/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Ready Formerly Argent Domain Security](https://apis.io/security/ready-formerly-argent/ready-formerly-argent-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.ready.co/)
+- [Documentation](https://docs.ready.co/)
+- [Getting started](https://docs.ready.co/build-with-ready)
+- [API reference](https://docs.ready.co/ready-wallets/web-wallet/api-reference)
+- [Support](https://help.ready.co)
+- [Blog](https://www.ready.co/blog)
+- [Privacy policy](https://www.ready.co/legal/privacy)
+- [GitHub](https://github.com/argentlabs)
+- [Status](https://status.ready.co)
+
+## API Evangelist rating
+
+**Kin Score 18.9** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 55.4 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 18.4 |
+| Developer ergonomics | 52.4 |
+| Access clarity | 10.5 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 8.9** — Payments
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/ready-formerly-argent/](https://apis.io/providers/ready-formerly-argent/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Ready (formerly Argent): the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/ready-formerly-argent/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
